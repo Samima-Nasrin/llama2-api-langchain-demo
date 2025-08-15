@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+*.out
+
+# Streamlit cache
+.streamlit/
+
+# LangChain / Ollama model data
+*.sqlite
+*.db
+*.json
+*.pickle
+*.pkl
+*.cache
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python egg / build files
+*.egg
+*.egg-info/
+dist/
+build/
