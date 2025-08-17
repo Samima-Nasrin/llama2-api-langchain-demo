@@ -59,7 +59,7 @@ These experiments form the **foundation** → learning each piece before combini
 - **LLM:** Gemma 3 via **Ollama** 
 - **Deployment:** Local script, run in terminal.  
 
-<img width="600" alt="Local LLaMA" src="[https://github.com/user-attachments/assets/3e3db4c6-8962-47cc-8a0f-2a30663a1d32](https://github.com/Samima-Nasrin/llamas-in-the-lab/blob/main/demos/localllama.png)" />
+![Local LLaMA](demos/localllama.png)
 
 ---
 
