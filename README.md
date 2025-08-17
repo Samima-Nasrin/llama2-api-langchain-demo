@@ -72,7 +72,7 @@ Architecture:
 - Backend (`app.py`) → Exposes FAST API.  
 - Client (`client.py`) → Consumes API and provides chat interface.  
 
-*Screenshot Placeholder — `demos/api_client.png`*  
+![API Client](demos/api_client.png)
 
 ---
 
@@ -83,7 +83,7 @@ Architecture:
 
 Why Groq? → **Ultra-low latency inference**, suitable for production chatbots.  
 
-*Screenshot Placeholder — `demos/groq.png`*  
+![Groq](demos/groq.png)
 
 ---
 
@@ -98,7 +98,7 @@ Workflow:
 2. Retriever fetches relevant chunks.  
 3. Ollama (Gemma 2) generates grounded responses.  
 
-*Screenshot Placeholder — `demos/objectbox.png`*  
+![ObjectBox](demos/objectbox.png)
 
 ---
 
