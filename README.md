@@ -148,7 +148,7 @@ pip install -r requirements.txt
 ```
 
 ## Author
-Built with ♡ by Samima Nasrin
+Built with ♡ by Samima Nasrin.
 All experiments, demos, and implementations were created end-to-end by me.
 
 
