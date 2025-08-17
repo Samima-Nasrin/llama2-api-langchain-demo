@@ -135,7 +135,16 @@ These projects demonstrate patterns used in:
 - [Hugging Face Sentence Transformers](https://www.sbert.net/) – Pre-trained embedding models for semantic similarity, clustering, etc.  
 - [OpenAI Embeddings](https://platform.openai.com/docs/guides/embeddings) – Embeddings API (e.g., `text-embedding-3-large`) for semantic search & RAG.  
 - [Ollama](https://ollama.ai/) – Run and serve open LLMs locally with simple `ollama run <model>` interface.  
-  
+
+Create a Conda environment
+```bash
+conda create -n llamas python=3.10 -y
+conda activate llamas
+```
+
 Install dependencies:  
 ```bash
 pip install -r requirements.txt
+```
+
+
